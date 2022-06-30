@@ -1,4 +1,4 @@
-# `<name of application here>`
+# `AirBnb Clone`
 
 ## Database Schema Design
 
